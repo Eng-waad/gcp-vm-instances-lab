@@ -3,6 +3,7 @@
 The lab environment consists of three virtual machines deployed in the same region and zone.
 
 Region: europe-west4
+
 Zone:  europe-west4-a
 
 VM Instances:
