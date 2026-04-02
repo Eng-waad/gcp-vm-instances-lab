@@ -1,4 +1,4 @@
-# gcp-vm-instances-lab
+# gcp-vm-instances-deployment
 # Creating Virtual Machines in Google Cloud
 
 This project demonstrates how to create and configure different types of Virtual Machine instances in Google Cloud Platform (GCP).
